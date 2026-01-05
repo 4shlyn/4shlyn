@@ -20,11 +20,25 @@
 </a>
 
 </li>
+
 </ul>
   </div>
 
+<table align="center">
+  <tr>
+    <td align="center">
+      <a src="https://github-readme-stats.vercel.app/api?username=4shlyn&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false" />
+      <img src="https://nirzak-streak-stats.vercel.app/?user=4shlyn&theme=blueberry&hide_border=false" />
+      <br/>
+      <a src="https://github-readme-stats.vercel.app/api/top-langs/?username=4shlyn&theme=blueberry&hide_border=false&layout=compact" />
+    </td>
+  </tr>
+  <tr>
+    <td align="right">
+      <sub>
+        <img src="https://komarev.com/ghpvc/?username=4shlyn&style=flat-square&color=6B7280" />
+      </sub>
+    </td>
+  </tr>
+</table>
 
-![](https://github-readme-stats.vercel.app/api?username=4shlyn&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=4shlyn&theme=blueberry&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=4shlyn&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-[![](https://visitcount.itsvg.in/api?id=4shlyn&icon=0&color=1)](https://visitcount.itsvg.in)
