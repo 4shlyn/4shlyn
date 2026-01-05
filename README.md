@@ -1,14 +1,13 @@
 <div align="center">
 
-  <h3>hello! i'm</h3>
+  <h4>hello! i'm</h4>
   <h1>Ashlyn Lee</h1>
   <div align="left">
     <ul>
       <li> 🌱 studying <a href="https://discover.engineering.utoronto.ca/programs/engineering-programs/engineering-science/">engineering science @ uoft </a>
       <li> 🌅 interested in intersections between controls, software and machine intelligence</li>
-      <li> 🎲 coding up my <a href="https://ashlynl.com">personal site</a> </li>
-      <li> 🛰️ currently working on <strong>nonlinear control systems at UTIAS FSC Lab</strong> + computer vision projects
-      <li> 🌺 mentor <strong>@ UTIAS Aerial Robotics Club </strong> | currently seeking <strong>S26 Internships</strong></li>
+      <li> 🛰️ working on <strong>nonlinear control systems at UTIAS FSC Lab</strong> + mentor @ UTIAS Aerial Robotics
+      <li> 🌺 currently seeking <strong>S26 Internships</strong></li>
     <li>
 <a href="https://www.linkedin.com/in/ashlyn-lee25/">
   <img src="https://img.shields.io/badge/LinkedIn-CAF2FF?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -16,7 +15,11 @@
 <a href="mailto:4shlynl@mail.utoronto.ca">
   <img src="https://img.shields.io/badge/Email-6B8E7F?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-      </li>
+  <a href="https://ashlynl.com">
+  <img src="https://img.shields.io/badge/-Portfolio-DFCADF?style=flat-square&logo=vercel&logoColor=F9FAF7" alt="Personal Website"/>
+</a>
+
+</li>
 </ul>
   </div>
 
