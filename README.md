@@ -3,7 +3,7 @@
   <div align="left">
     Recent ventures:
     <ul>
-       <li> 🛍️ Incoming S26 SWE @ Shopify </li>
+       <li> 🛍️ Incoming S26 @ Shopify </li>
       <li> 🤖 Won $4k at NA's Largest Robotics Hackathon</li>
       <li> 🌱 Working on <strong>nonlinear contraction-control systems at <a href="https://flight.utias.utoronto.ca/">UTIAS FSC Lab </a> + mentor for <a href="https://flight.utias.utoronto.ca/index.php/aerial-robotics-club">FSC Aerial Robotics </a></strong>
       <li> 🌱 Studying <a href="https://discover.engineering.utoronto.ca/programs/engineering-programs/engineering-science/">engineering science @ uoft </a>
