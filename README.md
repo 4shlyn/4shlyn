@@ -3,10 +3,10 @@
   <div align="left">
     Recent ventures:
     <ul>
-       <li> 🛍️ SWE Intern @ Shopify </li>
-      <li> 🤖 Won $4k at NA's Largest Robotics Hackathon</li>
-      <li> 🌱 Researching <strong>Neural CCM-loops at <a href="https://flight.utias.utoronto.ca/">UTIAS FSC Lab </a> & mentoring <a href="https://flight.utias.utoronto.ca/index.php/aerial-robotics-club">FSC Aerial Robotics </a></strong>
-      <li> 🌱 Studying <a href="https://discover.engineering.utoronto.ca/programs/engineering-programs/engineering-science/">engineering science @ uoft </a>
+       <li> 🛍️ swe intern @ shopify </li>
+      <li> won $4k at NA's largest robotics hackathon</li>
+      <li> developing neural CCM-loops at <a href="https://flight.utias.utoronto.ca/" style="color: black;">UTIAS FSC </a> & mentoring FSC Aerial Robotics </a>
+      <li> studying <a href="https://discover.engineering.utoronto.ca/programs/engineering-programs/engineering-science/" style="color: black;">engineering science @ uoft </a>
    <br/>
         </ul>
 
@@ -22,4 +22,3 @@
  <!-- ![](https://nirzak-streak-stats.vercel.app/?user=4shlyn&theme=blueberry&hide_border=false)
   <br/>
  </span> -->
-
