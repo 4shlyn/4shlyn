@@ -5,7 +5,7 @@
     <ul>
        <li> 🛍️ swe intern @ shopify </li>
       <li> won $4k at NA's largest robotics hackathon</li>
-      <li> developing neural CCM-loops at <a href="https://flight.utias.utoronto.ca/" style="color: black;">UTIAS FSC </a> & mentoring FSC Aerial Robotics </a>
+      <li> developing neural CCM-loops at <a href="https://flight.utias.utoronto.ca/" style="color: black;">UTIAS FSC </a> & mentoring FSC aerial robotics </a>
       <li> studying <a href="https://discover.engineering.utoronto.ca/programs/engineering-programs/engineering-science/" style="color: black;">engineering science @ uoft </a>
    <br/>
         </ul>
